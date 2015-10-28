@@ -16,9 +16,9 @@ import static org.junit.Assert.*;
  *
  * @author 
  */
-public class CustomerDaoTest {
+public class MachineDaoTest {
     
-    public CustomerDaoTest() {
+    public MachineDaoTest() {
     }
     
     @BeforeClass
